@@ -1,11 +1,10 @@
 # Mentor-KD
 
 ### Mentor-KD: Making Small Language Models Better Multi-step Reasoners
-Hojae Lee*, Junho Kim*, SangKeun Lee (*: equal contributon)
+Hojae Lee*, Junho Kim*, SangKeun Lee (*: equal contribution)
 
 This repository contains the code and datasets used for our study ["Mentor-KD: Making Small Language Models Better Multi-step Reasoners"](https://aclanthology.org/2024.emnlp-main.977/) accepted to EMNLP 2024 (main). In this paper, we improve reasoning distillation by leveraging task-specific intermediate-sized mentor models which complements insufficient distillation signals from the teacher model.
 
-👷‍♂️ **Some code files will be refactored for better readability in the near future!**
 
 
 ## Overview
